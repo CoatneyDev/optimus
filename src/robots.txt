@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://optimus-392b4.firebaseapp.com
